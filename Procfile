@@ -1,1 +1,1 @@
-python3 -m hitsuki
+web: python3 -m hitsuki

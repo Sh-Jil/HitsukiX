@@ -1,1 +1,1 @@
-python3 -m HitsukiX
+python3 -m hitsuki
